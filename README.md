@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/649d784b-9e25-4093-b854-0e87e2947e72/deploy-status)](https://app.netlify.com/sites/discover-netlify-js/deploys)
 # Initiation à Netlify
 
 ## Instructions
@@ -8,4 +9,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://discover-netlify-js.netlify.app/
